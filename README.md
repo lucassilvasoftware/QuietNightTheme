@@ -1,10 +1,7 @@
 # Quiet Night
 
-<p align="center">
-  <img src="img/preview.png" alt="Quiet Night Theme Preview" width="800"/>
-  <br>
-  <img src="img/preview1.png" alt="Quiet Night Python Preview" width="800"/>
-</p>
+<img width="1911" alt="preview" src="https://github.com/user-attachments/assets/13813d2d-8b85-4c2e-a5e6-727375be1909" />
+
 
 Quiet Night is a calm and introspective dark theme for Visual Studio Code, inspired by the stillness and atmosphere of the midnight city.  
 It’s designed for focus and clarity, offering a soft balance between contrast and comfort for long coding sessions.
