@@ -1,0 +1,39 @@
+{
+  "name": "quiet-night",
+  "displayName": "Quiet Night",
+  "description": "A calm and introspective dark theme inspired by the stillness of midnight.",
+  "version": "1.0.0",
+  "publisher": "lucassilvasoftware",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "minimal",
+    "night",
+    "midnight",
+    "quiet",
+    "aesthetic",
+    "neon",
+    "focus",
+    "lucas silva",
+    "calm",
+    "modern",
+    "productivity",
+    "developer",
+    "visual studio code theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Quiet Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Quiet Night-color-theme.json"
+      }
+    ]
+  }
+}
