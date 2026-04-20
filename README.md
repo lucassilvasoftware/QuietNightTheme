@@ -1,36 +1,18 @@
-# Quiet Night
+# Quiet Night — tema Visual Studio Code
 
-<img width="1911" alt="preview" src="https://github.com/user-attachments/assets/13813d2d-8b85-4c2e-a5e6-727375be1909" />
+Tema escuro para **Visual Studio Code**, voltado a sessões longas de código: fundo profundo, destaques discretos e contraste equilibrado, inspirado na atmosfera urbana noturna.
 
+## Recursos
 
-Quiet Night is a calm and introspective dark theme for Visual Studio Code, inspired by the stillness and atmosphere of the midnight city.  
-It’s designed for focus and clarity, offering a soft balance between contrast and comfort for long coding sessions.
+- Fundo escuro com leitura confortável
+- Destaques sutis para guiar o foco sem fadiga visual
+- Adequado a trabalho noturno e ambientes com pouca luz
 
----
+## Instalação
 
-## Features
+1. Copie a pasta do tema para `.vscode/extensions` ou empacote com `vsce` se publicar na Marketplace.
+2. No VS Code, abra **Preferences → Color Theme** e selecione **Quiet Night** (nome conforme definido no `package.json` do tema).
 
-- Deep, distraction-free dark background for full immersion  
-- Subtle highlights and accents that guide focus without strain  
-- Minimal, balanced contrast for long hours of comfortable coding  
-- Inspired by the aesthetics of modern urban nights  
-- Built for developers who value calm, focus, and design simplicity
+## Sobre
 
----
-
-## Ideal For
-
-- Late-night coders who enjoy quiet, minimal environments  
-- Developers who prefer subdued lighting and consistent contrast  
-- Users who want a dark theme that feels professional and modern  
-
----
-
-## About
-
-Created by **Lucas Silva**, Quiet Night reflects the calm and rhythm of the city after dark.  
-A theme designed for those who find focus in silence and beauty in simplicity.
-
----
-
-**Enjoy the night. Code in peace.** 🌙  
+Criado por Lucas Silva. O tema busca combinar calma visual e clareza para desenvolvimento no editor.
